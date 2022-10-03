@@ -98,6 +98,7 @@ const Scatterplot = (props) => {
                         return noDopingColor;
                     }
                 })
+                .attr("stroke", "white")
                 .on("mouseover", (event, item) => {
                     let tooltipTextColor;
                     let tooltipText =  `${item.name}, ${item.nationality}<br />Year: ${item.year}<br />Time: ${item.time}`;

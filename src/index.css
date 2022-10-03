@@ -24,10 +24,10 @@ code {
 }
 
 #spacer {
-    min-height: 20px;
+    min-height: 10px;
 }
 
 #tooltip {
     visibility: hidden;
-    font-size: 20px;
+    font-size: 18px;
 }
