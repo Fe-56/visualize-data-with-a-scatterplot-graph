@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/visualize-data-with-a-scatterplot-graph/static/css/main.ae97e891.css",
+    "main.js": "/visualize-data-with-a-scatterplot-graph/static/js/main.391ab4c0.js",
+    "index.html": "/visualize-data-with-a-scatterplot-graph/index.html",
+    "main.ae97e891.css.map": "/visualize-data-with-a-scatterplot-graph/static/css/main.ae97e891.css.map",
+    "main.391ab4c0.js.map": "/visualize-data-with-a-scatterplot-graph/static/js/main.391ab4c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae97e891.css",
+    "static/js/main.391ab4c0.js"
+  ]
+}
