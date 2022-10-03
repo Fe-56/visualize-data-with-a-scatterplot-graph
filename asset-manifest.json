@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/visualize-data-with-a-scatterplot-graph/static/css/main.ae97e891.css",
-    "main.js": "/visualize-data-with-a-scatterplot-graph/static/js/main.391ab4c0.js",
+    "main.css": "/visualize-data-with-a-scatterplot-graph/static/css/main.b1222c4e.css",
+    "main.js": "/visualize-data-with-a-scatterplot-graph/static/js/main.6764b91c.js",
     "index.html": "/visualize-data-with-a-scatterplot-graph/index.html",
-    "main.ae97e891.css.map": "/visualize-data-with-a-scatterplot-graph/static/css/main.ae97e891.css.map",
-    "main.391ab4c0.js.map": "/visualize-data-with-a-scatterplot-graph/static/js/main.391ab4c0.js.map"
+    "main.b1222c4e.css.map": "/visualize-data-with-a-scatterplot-graph/static/css/main.b1222c4e.css.map",
+    "main.6764b91c.js.map": "/visualize-data-with-a-scatterplot-graph/static/js/main.6764b91c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae97e891.css",
-    "static/js/main.391ab4c0.js"
+    "static/css/main.b1222c4e.css",
+    "static/js/main.6764b91c.js"
   ]
 }
